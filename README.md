@@ -1,7 +1,9 @@
 👋Oi sou o Raphaeel <br>
 👀Buscando sempre Aprender mais <br>
-🌱Atualmente estou estudando JavaScript, HTML e CSS <br>
-💞️Estou procurando um estágio na área <br>
+🔹Lv 30⏳SP-ZN 📍♉ - ♑ Touro - Capricórnio <br>
+🔸Desenvolvedor Full-Stack 🏡 <br>
+🔺JavaScript and PHP 👩‍💻 <br>
+🔻HTML e CSS 🎠 <br>
 📍Sou de São Paulo-SP <br>
 📫Como entrar em contato comigo <br>
 📧 raphael.tw22@gmail.com / raphael.tw@hotmail.com <br>
