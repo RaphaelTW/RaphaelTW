@@ -75,6 +75,10 @@
    <a href="https://github.com/RaphaelTW" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
   </a>
+  
+     <a href="https://raphael-laurentino.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"/>
+  </a>
 </div>
 
 <hr/>
