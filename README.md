@@ -10,12 +10,6 @@
 <br/>
 • Desenvolvedor Full-Stack (PHP, MySQL, HTML, CSS, JS, React). 🖥️
 <br/>
-• raphael.tw22@gmail.com / raphael.tw@hotmail.com 📧
-<br/>
-• +55 (11)9-4122-1865 📱
-<br/>
-• +55 (11)xxxx-xxxx ☎️
-<br/>
 
 ## Oi eu sou O Raphael Laurentino, Desenvolvedor Full-Stack!
 
