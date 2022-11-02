@@ -44,9 +44,7 @@
 <div>
   <a href="https://www.youtube.com/channel/UCpG6hGoiQoO1zGGh0N7iefw"
     target="_blank">
-    <img
-      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-      target="_blank"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
   </a>
 
   <a href="https://www.instagram.com/raphael.laurentinowski92/" target="_blank">
@@ -58,25 +56,22 @@
   </a>
 
   <a href="mailto:raphael.tw22@gmail.com">
-    <img
-      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-      target="_blank"
-    />
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
 
   <a href="https://www.linkedin.com/in/raphael-laurentino-da-silva-84a78a108/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
   
-   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511966161056" target="_blank">
+  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511966161056" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>
   </a>
   
-   <a href="https://github.com/RaphaelTW" target="_blank">
+  <a href="https://github.com/RaphaelTW" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
   </a>
   
-     <a href="https://raphael-laurentino.netlify.app/" target="_blank">
+  <a href="https://raphael-laurentino.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"/>
   </a>
 </div>
@@ -85,3 +80,4 @@
   
    ![Snake animation](https://github.com/RaphaelTW/RaphaelTW/blob/output/github-contribution-grid-snake.svg)
 
+<hr/>
