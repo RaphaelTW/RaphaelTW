@@ -74,6 +74,18 @@
   <a href="https://raphael-laurentino.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"/>
   </a>
+  
+  <a href="https://id.sonyentertainmentnetwork.com/id/management_ca/?gated=true&pr_referer=cam&entry=psn_profile&cid=99a46227-20e7-4e78-8374-96a420a93d32#/p/psn_profile/list?state=cam_ca17c13ba03622dfac4fdcc876a91fc&cid=86293939-46bc-4451-a88d-e1bb20e4bd7b&entry=psn_profile" target="_blank">
+    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"/>
+  </a>
+  
+  <a href="https://steamcommunity.com/id/raphaeltwi/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"/>
+  </a>
+  
+  <a href="https://open.spotify.com/user/scar.raphael?si=9c893d2ea4f3433e&nd=1" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"/>
+  </a>
 </div>
 
 <hr/>
