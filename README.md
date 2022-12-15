@@ -37,17 +37,8 @@
 <hr/>
 
 <div>
-  <a href="https://www.youtube.com/channel/UCpG6hGoiQoO1zGGh0N7iefw"
-    target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
-  </a>
-
   <a href="https://www.instagram.com/raphael.laurentinowski92/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
-  </a>
-
-  <a href="https://www.twitch.tv/raphaelaurentino" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"/>
   </a>
 
   <a href="mailto:raphael.tw22@gmail.com">
@@ -61,11 +52,7 @@
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511966161056" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>
   </a>
-  
-  <a href="https://github.com/RaphaelTW" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
-  </a>
-  
+ 
   <a href="https://raphael-laurentino.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"/>
   </a>
@@ -73,21 +60,13 @@
   <a href="https://id.sonyentertainmentnetwork.com/id/management_ca/?gated=true&pr_referer=cam&entry=psn_profile&cid=99a46227-20e7-4e78-8374-96a420a93d32#/p/psn_profile/list?state=cam_ca17c13ba03622dfac4fdcc876a91fc&cid=86293939-46bc-4451-a88d-e1bb20e4bd7b&entry=psn_profile" target="_blank">
     <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"/>
   </a>
-  
-  <a href="https://steamcommunity.com/id/raphaeltwi/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"/>
-  </a>
-  
+ 
   <a href="https://open.spotify.com/user/scar.raphael?si=9c893d2ea4f3433e&nd=1" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"/>
   </a>
   
   <a href="https://www.reddit.com/user/Raphaeltw" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"/>
-  </a>
-  
-  <a href="https://twitter.com/Raphael_Laure" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/>
   </a>
   
   <a href="https://t.me/@Laurentinox" target="_blank">
