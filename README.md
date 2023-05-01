@@ -8,7 +8,7 @@
 <br/>
 • Currently working at Via Expressa 🔨
 <br/>
-• Desenvolvedor Full-Stack (PHP, MySQL, HTML, CSS, JS, React). 🖥️
+• Desenvolvedor Full-Stack (PHP, MySQL, Laravel, JS, HTML, CSS, React). 🖥️
 <br/>
 
 ## Oi eu sou O Raphael Laurentino, Desenvolvedor Full-Stack!
