@@ -75,6 +75,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
 <hr/>
 
 ![Snake animation](https://github.com/RaphaelTW/RaphaelTW/blob/output/github-contribution-grid-snake.svg)
