@@ -14,7 +14,7 @@
 <br/>
 • Currently working at Via Expressa 🔨
 <br/>
-• Desenvolvedor Full-Stack (PHP, MySQL, Laravel, JS, HTML, CSS, React). 🖥️
+• Desenvolvedor Full-Stack ( HTML | CSS | JS | PHP | Laravel | MySQL | React | React-Native). 🖥️
 <br/>
 
 <h2 align="center">I code with</h2>
