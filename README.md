@@ -46,7 +46,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="40" alt="php logo" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="40" alt="laravel logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="30" width="40" alt="laravel logo" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" alt="java logo"  />
 
