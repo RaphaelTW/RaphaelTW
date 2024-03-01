@@ -1,6 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">👋 What's up?</h1>
 
 ###
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Raphael+Laurentino!;" />
+</h1>
 
 ## Oi eu sou O Raphael Laurentino, Desenvolvedor Full-Stack!
 
@@ -91,13 +95,10 @@
 
 <hr/>
 
+![snake gif](https://github.com/RaphaelTW/RaphaelTW/blob/output/github-contribution-grid-snake.gif)
+
 ![Snake animation](https://github.com/RaphaelTW/RaphaelTW/blob/output/github-contribution-grid-snake.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaphaelTW/RaphaelTW/main/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaphaelTW/RaphaelTW/main/dist/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/RaphaelTW/RaphaelTW/main/dist/github-snake.svg" />
-</picture>
 
 <hr/>
 
