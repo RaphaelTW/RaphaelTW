@@ -87,6 +87,10 @@
 
 <hr/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=RaphaelTW&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+<hr/>
+
 ![Snake animation](https://github.com/RaphaelTW/RaphaelTW/blob/output/github-contribution-grid-snake.svg)
 
 <hr/>
