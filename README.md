@@ -10,7 +10,7 @@
 
 • My name is Raphael Laurentino da Silva 👋
 <br/>
-• I'm 31 years old ⏳
+• I'm 32 years old ⏳
 <br/>
 • Bachelor of Systems Analysis and Development 🎓
 <br/>
