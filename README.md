@@ -10,16 +10,18 @@
 
 • My name is Raphael Laurentino da Silva 👋
 <br/>
-• I'm 34 years old ⏳
+• Full-Stack Developer | Web • Mobile • Desktop 🖥️
 <br/>
-• Bachelor of Systems Analysis and Development 🎓
+• Degree in Systems Analysis and Development 🎓
 <br/>
 • Brazilian 📍
 <br/>
 • Currently working at Via Expressa 🔨
 <br/>
-• Desenvolvedor Full-Stack ( HTML | CSS | JS | PHP | Laravel | MySQL | React | React-Native). 🖥️
-<br/>
+
+<p align="center">
+Transformando ideias em aplicações modernas, funcionais e escaláveis.
+</p>
 
 <h2 align="center">I code with</h2>
 
@@ -112,7 +114,7 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para raphael.tw22@gmail.com"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/raphael-laurentino-da-silva-84a78a108/" target="_blank">
+  <a href="https://www.linkedin.com/in/raphael-laurentino-dev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
   
