@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Raphael+Laurentino!;" />
 </h1>
 
-## Oi eu sou O Raphael Laurentino, Desenvolvedor Full-Stack!
+## 👨‍💻 Sobre mim
 
 • My name is Raphael Laurentino da Silva 👋
 <br/>
@@ -73,14 +73,21 @@ Transformando ideias em aplicações modernas, funcionais e escaláveis.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="40" alt="photoshop logo" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="40" alt="figma logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40" alt="typescript logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40" alt="git logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" alt="github logo" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://github.com/RaphaelTW">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaelTW&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" height="150" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelTW&layout=compact&langs_count=7&theme=ocean_dark" height="150" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaelTW&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" height="150"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelTW&layout=compact&langs_count=7&theme=ocean_dark" height="150" />
+  </a>
 </div>
 
 ###
@@ -123,7 +130,7 @@ Transformando ideias em aplicações modernas, funcionais e escaláveis.
   </a>
  
   <a href="https://raphael-laurentino.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"/>
+      <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
  
   <a href="https://open.spotify.com/user/scar.raphael?si=9c893d2ea4f3433e&nd=1" target="_blank">
@@ -134,7 +141,7 @@ Transformando ideias em aplicações modernas, funcionais e escaláveis.
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"/>
   </a>
   
-  <a href="https://t.me/@Laurentinox" target="_blank">
+  <a href="https://t.me/Laurentinox" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"/>
   </a>
 </div>
