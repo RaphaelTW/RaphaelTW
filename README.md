@@ -107,23 +107,6 @@ Transforming ideas into modern, functional, and scalable applications.
 
 ![snake gif](https://github.com/RaphaelTW/RaphaelTW/blob/output/github-contribution-grid-snake.gif)
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/RaphaelTW/RaphaelTW/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/RaphaelTW/RaphaelTW/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution grid snake animation"
-      src="https://raw.githubusercontent.com/RaphaelTW/RaphaelTW/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</div>
-
 <hr/>
 </div>
 
