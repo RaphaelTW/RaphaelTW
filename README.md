@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Raphael+Laurentino!;" />
 </h1>
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
 • My name is Raphael Laurentino da Silva 👋
 <br/>
@@ -20,7 +20,7 @@
 <br/>
 
 <p align="center">
-Transformando ideias em aplicações modernas, funcionais e escaláveis.
+Transforming ideas into modern, functional, and scalable applications.
 </p>
 
 <h2 align="center">I code with</h2>
