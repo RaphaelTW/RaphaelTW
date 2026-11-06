@@ -12,7 +12,9 @@
 <br/>
 • Full-Stack Developer | Web • Mobile • Desktop 🖥️
 <br/>
-• Degree in Systems Analysis and Development 🎓
+• Postgraduate Specialization in Information Technology Management 🎓
+<br/>
+• Cybersecurity & Security Auditing 🛡️
 <br/>
 • Brazilian 📍
 <br/>
